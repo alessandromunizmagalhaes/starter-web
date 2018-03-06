@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alessandro alessandrommagalhaes@gmail.com @eu
+	<name> -- <role> -- <twitter>
 
 # THANKS
 
